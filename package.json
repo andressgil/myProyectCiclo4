@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/andressgil/myProyectCiclo4/issues"
   },
-  "homepage": "https://github.com/andressgil/myProyectCiclo4#readme"
+  "homepage": "https://github.com/andressgil/myProyectCiclo4#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
